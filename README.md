@@ -16,4 +16,4 @@ The wiring is relatively simple as shown in the following diagram.
 
 For the exact PIN number refer to the code itself (or better adjust to your needs there).
 
-[![Electronics component overview and wiring](http://www.github.com/mstaflex/rotating-table/blob/master/docs/RotatingTableBuschi.drawio.png)](http://www.github.com/mstaflex/rotating-table/blob/master/docs/RotatingTableBuschi.drawio.png)
+![Electronics component overview and wiring](https://github.com/mstaflex/rotating-table/blob/main/docs/RotatingTableBuschi.drawio.png)
