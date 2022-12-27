@@ -54,7 +54,7 @@ void loop() {
       } else {
          reverse = true;
       }
-   } else {
+   } else if (!digitalRead(SWITCH_PIN_2)) {
       reverseButtonHoldoff = false;
    }
 }
